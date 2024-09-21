@@ -7,4 +7,5 @@ Help with building the site locally:
 3. Navitate to the repository folder and open a terminal inside it
 4. Possibly you'll have to run ''bundle install''
 5. Finally, run ''bundle exec jekyll serve''. Then the website will be available at localhost/4000 in the browser (or some link like that; the terminal will specify the link)
-6. If everything looks good, you may push the changes to Github to update the website globally.
+
+If everything looks good, you may push the changes to Github to update the website globally.
