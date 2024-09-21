@@ -1,4 +1,4 @@
-# RL theory 2024
+# RL theory 2024 (https://rltheory.github.io/2024/)
 
 Help with building the site locally:
 
