@@ -16,7 +16,7 @@ The course notes from previous years are in the headings below.
 <table height="100%" width="100%">
     <tr>
     <td valign="middle" align="center">
-    <iframe src="https://giphy.com/embed/LYd4ykqoEaWPzQWp0I"
+    <iframe src="https://giphy.com/embed/B9NMjp24NAoxEgj0Tk"
         width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen>
     </iframe>
     <p>
