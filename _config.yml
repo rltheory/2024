@@ -34,6 +34,7 @@ remote_theme: just-the-docs/just-the-docs@v0.5.3
 
 # need to add the following, otherwise the local build fails with the error: Liquid Exception: Could not locate the included file 'head.html'
 # But isn't this already specified in the _config_local.yml file?? Why doesn't it work from there?
+# Oh ok. So the local site can be built using the command: bundle exec jekyll serve --config=_config.yml,_config_local.yml
 # theme: "just-the-docs" 
 
 plugins:
