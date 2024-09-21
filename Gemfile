@@ -29,8 +29,8 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # Using version 0.5.3 since setting the font using $body-font-family in custom_color_scheme.scss does not work in 0.6.x 
-# gem "just-the-docs", "0.5.3"
+gem "just-the-docs", "0.5.3"
 
 gem "webrick", "~> 1.7"
 
-gem "just-the-docs"
+# gem "just-the-docs"
